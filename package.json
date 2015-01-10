@@ -1,0 +1,27 @@
+{
+  "name": "is-unique-chars",
+  "version": "1.0.0",
+  "description": "Checks if a string consists of unique characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/is-unique-chars"
+  },
+  "keywords": [
+    "bubblesort",
+    "sort"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/is-unique-chars/issues"
+  },
+  "homepage": "https://github.com/simplyianm/is-unique-chars",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
